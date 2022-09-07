@@ -1,7 +1,7 @@
 ![avatar](avatar.jpg)
 ___
 
-#Eugene Degtyaryov
+# Eugene Degtyaryov
 ## Frontend developer
 
 - __Contacts__
@@ -15,7 +15,7 @@ _Junior front-end developer with knowledge in HTML, CSS, JavaScript.
 Also  I worked as system administrator, so I have experience with Unix-
 based operation systems, network supply and technical support of users._
 
-##Skills: 
+## Skills: 
 - HTML5, CSS3, SCSS(SASS), JavaScript, Jquery, Gulp, Adobe Photoshop, Vue.js
 
 ## Employment Hystory:
