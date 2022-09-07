@@ -1,4 +1,5 @@
 ![avatar](avatar.jpg)
+___
 
 #Eugene Degtyaryov
 ## Frontend developer
@@ -41,6 +42,9 @@ Hiking, reading, photography, cyclyng
 ## Code example:
 ### Task from Codewars
 __Task:__  _I was given a string of space separated numbers, and had to return the highest and lowest number_
+
+___
+
 __Solution:__
 ```
 function highAndLow(numbers) {
