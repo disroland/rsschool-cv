@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc;
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1,h2,p {
+    color: white;
+    mix-blend-mode: exclusion;
+    margin-bottom: 10px;
+}
